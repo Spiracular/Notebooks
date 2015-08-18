@@ -1,3 +1,3 @@
 # DataSciPractice
 
-First Github repository.
+My first Github repository.
